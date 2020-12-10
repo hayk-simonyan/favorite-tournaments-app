@@ -1,0 +1,3 @@
+{
+    "mongoURI" : "mongodb+srv://admin:ZaYqPPxDsRxDsTEc@cluster0.ajudp.mongodb.net/tournaments?retryWrites=true&w=majority"
+}
